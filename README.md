@@ -14,3 +14,4 @@ Timeline of Planning Day 7/19
 1:00ish: Created static version repo
 2:00: Spending the rest of the day on research on how I am going to be building my app
 2:30: OAuth research and collecting resources 
+3:00: Learning more about hooks in React as I will be passing lots of data between components
