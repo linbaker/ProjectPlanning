@@ -8,3 +8,4 @@ Timeline of Planning Day 7/19
 10:00: Building out component tree
 10:30: Sketch out individual login and sign up design. Research into user authentication to see how component tree should be structured
 11:00: Returning to whiteboarding to draw boxes around each component, deciding on component hierarchy 
+11:30-onward: Researching mapping out React components, making sure my method is correct and watching tutorials on user authentication to see how login fits into component hierarchy
