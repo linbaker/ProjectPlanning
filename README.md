@@ -7,3 +7,4 @@ Timeline of Planning Day 7/19
 9:30: Add single Trip compontent reduced down to only for MVP features
 10:00: Building out component tree
 10:30: Sketch out individual login and sign up design. Research into user authentication to see how component tree should be structured
+11:00: Returning to whiteboarding to draw boxes around each component, deciding on component hierarchy 
