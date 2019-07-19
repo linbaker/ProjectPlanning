@@ -1,2 +1,2 @@
-# ProjectPlanning
+# Project Planning
 Epicodus Capstone
