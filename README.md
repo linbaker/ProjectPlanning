@@ -1,8 +1,12 @@
 # Project Planning
 Epicodus Capstone
 
+Capstone Repo
+https://github.com/linbaker/Travel-Planner
+
+
 Initial Skeleton of Capstone 
-https://github.com/linbaker/Trip-Planning/commits/master
+https://github.com/linbaker/Trip-Planning
 
 Timeline of Planning Day 7/19
 8:30: Whiteboarding app design to break into components
@@ -25,3 +29,4 @@ Timeline of Day Two 7/26
 8:00: Setting up RDS and IAM for AWS
 9:00: Adding AWS environment to capston repo
 10:00: Creating flight list add and list flights
+10:30: Linking to blank splash page, adding routes
