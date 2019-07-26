@@ -23,3 +23,4 @@ Timeline of Planning Day 7/19
 
 Timeline of Day Two 7/26
 8:00: Setting up RDS and IAM for AWS
+9:00: Adding AWS environment to capston repo
