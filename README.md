@@ -20,3 +20,6 @@ Timeline of Planning Day 7/19
 3:00: Learning more about hooks in React as I will be passing lots of data between components
 4:00: Applying for usage of several API keys that require you submit application information. I have designed my MVP to not depend on these, but would really love to have them and want to have as much time to receive a response as possible. 
 4:30: Spent the remander of the day watching videos on using hooks as I think this will be one of the early challenges of reaching MVP
+
+Timeline of Day Two 7/26
+8:00: Setting up RDS and IAM for AWS
